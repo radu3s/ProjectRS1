@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ProjectRS1</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Pagina unu</string>
+    <string name="second_fragment_label">Pagina doi</string>
+    <string name="next">Alka</string>
+    <string name="previous">Back</string>
+    <string name="test_button_text">Test</string>
+    <string name="hello_first_fragment">Bomboane moldovenesti</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="bucuria_button_text">Bucuria</string>
+    <string name="title" />
+    <string name="description" />
+</resources>
